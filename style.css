@@ -1,0 +1,101 @@
+
+  
+  
+  
+  
+
+  .converter{
+    font-size: 40px;
+    padding: 30px;
+  }
+  
+  
+  
+  select {
+    width: 150px;
+    margin-top: 10px;
+    font-size: 18px;
+    margin-right: 20px;
+  }
+  
+  input {
+    width: 150px;
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  
+  
+  #result-box {
+    width: 150px;
+    height: 30px;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+    padding: 5px;
+  }
+  
+
+
+
+
+
+
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 50px;
+    font-size: 2rem;
+    background-image: url(https://static7.depositphotos.com/1278966/761/i/950/depositphotos_7616729-stock-photo-numbers-background-light.jpg);
+    background-size: cover;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  label {
+    font-size: 18px;
+    margin-right: 10px;
+  }
+  
+  input[type="text"],
+  input[type="number"] {
+    width: 300px;
+    /* padding: 10px    ; */
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  p {
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  
+  span {
+    font-weight: bold;
+  }
+  
+  .Heading {
+    font-size: 1rem;
+    padding: 25px;
+  }
+  
+  .Input {
+    padding: 25px;
+  }
+  
+  #Answer {
+    margin-top: 50px;
+    display: none;
+  }
+  .sopExpression {
+    font-weight: 600;
+  }
